@@ -28,6 +28,18 @@ p {
   color: brown;
 }
 
+.recipe {
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.recipe a {
+  color: rgb(153, 6, 6);
+  font-size: 18;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
 .email-link:hover {
   text-decoration: underline;
 }
