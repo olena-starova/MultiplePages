@@ -1,0 +1,33 @@
+body {
+  background: rgb(249, 249, 108);
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(62, 42, 15);
+  font-size: 46px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace;
+  margin: 20px;
+}
+
+.navigation-links {
+  display: flex;
+  margin-top: 40px;
+  justify-content: center;
+}
+
+.navigation-links a {
+  margin: 20px;
+  color: brown;
+}
+
+.email-link:hover {
+  text-decoration: underline;
+}
