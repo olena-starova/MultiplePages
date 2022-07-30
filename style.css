@@ -31,3 +31,10 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+.croissant-photo {
+  max-width: 500px;
+  border-radius: 5px;
+  display: block;
+  margin: 30px auto;
+}
