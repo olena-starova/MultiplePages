@@ -45,8 +45,8 @@ p {
 }
 
 .croissant-photo {
-  max-width: 500px;
-  border-radius: 5px;
+  max-width: 600px;
+  border-radius: solid 5px gold;
   display: block;
   margin: 30px auto;
   box-shadow: 4px 4px 4px darkgray;
