@@ -49,4 +49,5 @@ p {
   border-radius: 5px;
   display: block;
   margin: 30px auto;
+  box-shadow: 8px gray;
 }
